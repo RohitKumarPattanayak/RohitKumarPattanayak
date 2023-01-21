@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as an junior software developer specialized in backend development.<br>have also hadhand-on on frontend development .aspiring full stack developer.
+I'm currently working as an junior software developer specialized in backend development.<br>have also had hands-on on frontend development .aspiring full stack developer.
 
 
 ## 🌐 Socials:
